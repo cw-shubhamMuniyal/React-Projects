@@ -1,0 +1,19 @@
+.page_header {
+  display: flex;
+  justify-content: space-between;
+  object-fit: contain;
+  background-color: #fff;
+  padding: 20px;
+  position: sticky;
+  top: 0px;
+  z-index: 1;
+}
+
+.app__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.app__posts {
+  padding: 10px;
+}

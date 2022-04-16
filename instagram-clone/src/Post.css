@@ -1,0 +1,35 @@
+.post__image {
+    width: 100%;
+    object-fit: contain;
+}
+
+.post__header {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.post__avatar {
+    margin: 10px;
+}
+
+.post {
+    background-color: #fafafa;
+}
+
+.post__commentBox {
+    display: flex;
+    margin-top: 10px;
+}
+
+.post__input {
+    flex: 1;
+    border: none;
+    padding: 10px;
+    border-top: 1px solid lightgray;
+}
+
+.post__button {
+    flex: 0;
+    border: none;
+}

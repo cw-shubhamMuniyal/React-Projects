@@ -1,0 +1,8 @@
+.imageupload {
+    display: flex;
+    flex-direction: column;
+    bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
